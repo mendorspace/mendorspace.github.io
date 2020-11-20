@@ -1158,7 +1158,7 @@ section {
 }
 
 .team .member span {
-  font-style: italic;
+  font-style: normal;
   display: block;
   font-size: 13px;
   color: #01036f;
