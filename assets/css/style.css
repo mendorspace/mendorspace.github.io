@@ -413,12 +413,14 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
 }
 
+
+
 #hero h1 {
   margin: 0 0 20px 0;
-  font-size: 48px;
+  font-size: 42px;
   font-weight: 700;
   line-height: 56px;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.95);
 }
 
 #hero h1 span {
@@ -426,10 +428,10 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 4px solid #1acc8d;
 }
 
-#hero h2 {
-  color: rgba(255, 255, 255, 0.8);
+#hero h3 {
+  color: rgba(255, 255, 255, 0.95);
   margin-bottom: 40px;
-  font-size: 24px;
+  font-size: 22px;
 }
 
 #hero .btn-get-started {
